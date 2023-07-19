@@ -1,4 +1,4 @@
-Hey there... were you ever in a situation where you want to use a strong password for your website or socialmedia acccount and ended that up
+Hey there... were you ever in a situation where you want to use a strong password for your website or socialmedia account and ended that up
 because you are too busy or lazy ;-) to think of that.
 
 Then here is a python password generator for you which makes the task easy for you.
